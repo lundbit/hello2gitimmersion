@@ -1,1 +1,2 @@
-puts "Hello World in Ruby"
+puts "Hello, #{ARGV.first}!"
+
