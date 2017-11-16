@@ -25,8 +25,9 @@ Please remember that updating the GIT project requires you to clone (from your G
 
 Please remember to check your origin with "git remote -v", before adding files. [viz](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/ "Adding a file to the Repository from Linux")
 
-
-##Summary of GIT workflow process using CL is as follows:
+<dl>
+<dt>Summary of GIT workflow process using CL is as follows:</dt>
+</dl>
 
 1.  Create Git Project/repository on CL - use above links to push project into existence
 2.  Download/clone Git project/repository from GitHub website to your computer
