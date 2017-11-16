@@ -13,16 +13,20 @@ Here are the external resources I used to figure this out:
 
 * NEO's Git Immersion tutorial can be found [here](http://gitimmersion.com/index.html "Markdown Cheatsheet")
 
-###Download your clone!
+<dl>
+<dt>Download your clone!</dt>
+</dl>
 
 Please remember that updating the GIT project requires you to clone (from your GitHub page) the project to your computer, before adding files. [viz](https://help.github.com/articles/cloning-a-repository/ "Cloning Repository from Linux")
 
-###Upload your new file
+<dl>
+<dt>Upload your new file</dt>
+</dl>
 
 Please remember to check your origin with "git remote -v", before adding files. [viz](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/ "Adding a file to the Repository from Linux")
 
 
-Summary of GIT workflow process using CL is as follows:
+##Summary of GIT workflow process using CL is as follows:
 
 1.  Create Git Project/repository on CL - use above links to push project into existence
 2.  Download/clone Git project/repository from GitHub website to your computer
