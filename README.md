@@ -11,7 +11,7 @@ Here are the external resources I used to figure this out:
 
 * Instructions via GitHub Help on how to remote push into your Github account from the CL for a FRESH GIT PROJECT/REPO can be found [here](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/ "GitHub Help Page")
 
-* NEO's Git Immersion tutorial can be found [here](http://gitimmersion.com/index.html "Markdown Cheatsheet")
+* NEO's Git Immersion tutorial can be found [here](http://gitimmersion.com/index.html "Neo's Git Immersion!")
 
 <dl>
 <dt>Download your clone!</dt>
